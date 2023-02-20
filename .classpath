@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="00_javaTest/src"/>
+	<classpathentry kind="src" path="01_variable/src"/>
+	<classpathentry kind="src" path="02_operator/src"/>
+	<classpathentry kind="src" path="03_control/src"/>
+	<classpathentry kind="src" path="04_array/src"/>
+	<classpathentry kind="src" path="05_oop/src"/>
+	<classpathentry kind="src" path="06_objectArray/src"/>
+	<classpathentry kind="src" path="07_inheritance/src"/>
+	<classpathentry kind="src" path="08_polymorphism/src"/>
+	<classpathentry kind="src" path="09_exception/src"/>
+	<classpathentry kind="src" path="10_collection/src"/>
+	<classpathentry kind="src" path="11_io/src"/>
+	<classpathentry kind="src" path="12_network/src"/>
+	<classpathentry kind="src" path="EmployeeManagement/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
